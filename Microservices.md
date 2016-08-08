@@ -4,9 +4,17 @@
 
 [Building simple Node.js microservices using Hapi and Redis - Nodevember 2015](http://codewinds.com/blog/2015-11-14-microservices-nodevember.html)
 
+[Nodejs Microservices. From Zero to Hero. Pt1 (Motivation)](https://articles.microservices.com/nodejs-microservices-from-zero-to-hero-pt1-279548cb4080#.ak250drhf)
+
+[Nodejs microservices. From Zero to Hero. Pt2 (Basic usage)](https://articles.microservices.com/nodejs-microservices-from-zero-to-hero-pt2-72fbb2a1b1c4#.9irlhvv28)
+
 ### Docker
 
 [Learn Docker by building a Microservice](http://www.dwmkerr.com/learn-docker-by-building-a-microservice/)
+
+[Docker — Create a Node Microservice — Part 1](https://medium.com/sunkay-imho/docker-create-a-node-microservice-part-1-733cb3ea311b#.9ooic7il6)
+
+[Create a Node Microservice — Part 2](https://medium.com/sunkay-imho/create-a-node-microservice-part-2-39a480b5b997#.2yuce644a)
 
 [Docker deployment pipeline — Travis CI to AWS] (https://medium.com/@sunnykay/docker-deployment-pipeline-travis-ci-to-aws-2867a86c08de#.jwrfaxqor)
 
